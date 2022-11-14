@@ -7,5 +7,14 @@
  - that likes:
  - *low-level programming* and *malware analysis*💀
 
-```
+```go
+package main
 
+func main() {
+    Fav_Languages := []string{"C", "Golang", "Python"}
+    Editor := []string{"VsCode", "NeoVim"}
+    Operating_System := []string{"Arch Linux", "Win10"} //dualboot
+
+    const Java_BAD = true
+}
+```

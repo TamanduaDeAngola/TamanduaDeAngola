@@ -4,7 +4,7 @@
 
  - I am
  - a programmer
- - that likes
+ - that likes:
  - *low-level programming* and *malware analysis*💀
 
 ```

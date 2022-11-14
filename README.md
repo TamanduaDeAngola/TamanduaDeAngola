@@ -4,7 +4,6 @@
 
  - I am
  - a programmer
- ![a](https://media.tenor.com/iEEIyf_SOakAAAAi/emojify.gif)
  - that likes:
  - *low-level programming* and *malware analysis*💀
 ---

@@ -5,7 +5,7 @@
  - I am
  - a programmer
  - that likes
- - _low-level programming_ and _malware analysis_💀
+ - *low-level programming* and *malware analysis*💀
 
 ```
- low-level programming XD 💀
+

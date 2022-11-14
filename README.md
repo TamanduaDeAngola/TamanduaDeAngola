@@ -20,3 +20,6 @@ func main() {
     const Java_BAD = true
 }
 ```
+---
+hey kittie you want to be the "syn" of my "ack"?
+![a](https://media.tenor.com/iEEIyf_SOakAAAAi/emojify.gif)

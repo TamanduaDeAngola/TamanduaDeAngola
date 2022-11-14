@@ -6,7 +6,7 @@
  - a programmer
  - that likes:
  - *low-level programming* and *malware analysis*💀
-
+![a](https://media.tenor.com/iEEIyf_SOakAAAAi/emojify.gif)
 ---
 
 ```go
@@ -20,6 +20,3 @@ func main() {
     const Java_BAD = true
 }
 ```
----
-hey kittie you want to be the "syn" of my "ack"?
-![a](https://media.tenor.com/iEEIyf_SOakAAAAi/emojify.gif)

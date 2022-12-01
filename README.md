@@ -14,7 +14,7 @@ package main
 func main() {
     Fav_Languages := []string{"C", "Golang", "Python"}
     Editor := []string{"VsCode", "NeoVim"}
-    Operating_System := []string{"Alpine Linux", "Win10"} //dualboot
+    Operating_System := []string{"Arch Linux", "Win10"} //dualboot
 
     const Java_BAD = true
 }

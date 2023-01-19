@@ -30,6 +30,6 @@ func main() {
 
 <img align="right" width="38%" src="doge.png"/>
 
-![Tamandua de Angola github stats](https://github-readme-stats.vercel.app/api?username=TamanduaDeAngola&show_icons=true&theme=radical)
+![Tamandua de Angola github stats](https://github-readme-stats.vercel.app/api?username=tamanduadeangola&show_icons=true&theme=radical)
 
 

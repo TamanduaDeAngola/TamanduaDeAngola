@@ -30,6 +30,6 @@ func main() {
 
 <img align="right" width="38%" src="doge.png"/>
 
-  <a href="https://github.com/TamanduaDeAngola"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Sagat&theme=radical&title_color=ff3068"></a>
+![Tamandua de Angola github stats](https://github-readme-stats.vercel.app/api?username=TamanduaDeAngola&show_icons=true&theme=radical)
 
 

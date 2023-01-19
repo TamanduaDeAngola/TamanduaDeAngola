@@ -5,7 +5,7 @@
  - I am
  - a programmer
  - that likes:
- - *low-level programming*💀
+ - *programming*💀
 ---
 
 ```go

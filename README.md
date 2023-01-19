@@ -28,7 +28,7 @@ func main() {
 ---
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="https://media.tenor.com/h_pIQAvFzlIAAAAC/emojify.gif"/>
 
   <a href="https://github.com/TamanduaDeAngola"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=TamanduaDeAngola&theme=radical&title_color=ff3068"></a>
 

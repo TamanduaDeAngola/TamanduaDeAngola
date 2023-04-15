@@ -20,7 +20,7 @@ package main
 func main() {
     Fav_Languages := []string{"C", "Golang", "Python"}
     Editor := []string{"VsCode", "NeoVim"}
-    Operating_System := []string{"Arch Linux"}
+    Operating_System := []string{"Debian Linux"}
 
     const Java_BAD = true
 }

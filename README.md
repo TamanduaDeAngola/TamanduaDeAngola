@@ -18,11 +18,11 @@
 package main
 
 func main() {
-    Fav_Languages := []string{"C", "Golang", "Python"}
-    Editor := []string{"VsCode", "NeoVim"}
-    Operating_System := []string{"Win10"}
-
-    const Java_BAD = true
+    favLanguages := []string{"C", "Golang", "Python"}
+    editor := []string{"VsCode", "NeoVim"}
+    operatingSystem := []string{"Win11"}
+    actuallyStudying := []string{"JS", "Rust"}
+    const javaBad = true
 }
 ```
 ---

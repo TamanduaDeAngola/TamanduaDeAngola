@@ -1,8 +1,4 @@
-<div>
-  <h2 align="center">Hello, World!
-    <img align="center" src="doge.png" width="32px"/>
-  </h2>
-</div>
+## Hello, World! <img align="center" src="doge.png" width="32px"/>
 
 I write random stuffs usually with C/Cpp and I **_try_** to fix bugs. 
 

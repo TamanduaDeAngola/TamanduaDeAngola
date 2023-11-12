@@ -15,7 +15,7 @@ I write random stuffs usually with C/Cpp and I **_try_** to fix bugs.
 ```
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Defmc&theme=transparent&layout=compact&include_all_commits=true&hide=css" width="30%">
+  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TamanduaDeAngola&theme=transparent&layout=compact&include_all_commits=true&hide=css" width="30%">
 </a>
 
 ---

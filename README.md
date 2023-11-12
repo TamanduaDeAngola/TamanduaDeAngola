@@ -13,7 +13,7 @@
 
 ![Tamandua de Angola github stats](https://github-readme-stats.vercel.app/api?username=tamanduadeangola&show_icons=true&theme=radical)<br>
 <kbd> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </kbd>
-<kbd> ![Python](https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=C&logoColor=ffdd54) </kbd>
+<kbd> ![Python](https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=C&logoColor=fff) </kbd>
 
 
 

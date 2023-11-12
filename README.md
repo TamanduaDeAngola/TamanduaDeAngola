@@ -3,6 +3,8 @@
 I write random stuffs usually with C/Cpp and I **_try_** to fix bugs. 
 
 ```js
+const me = require('TamanduaDeAngola')
+
 () => {
   assert(me.nick === "Sagat")
   assert(me.fav_langs === ['C/C++', 'Py', 'Go'])

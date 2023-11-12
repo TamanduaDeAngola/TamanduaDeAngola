@@ -3,7 +3,6 @@
     <img align="center" src="doge.png" width="32px"/>
   </h2>
 </div>
-<img align="right" width="38%" src="doge.png"/>
 
 ```py
 assert()

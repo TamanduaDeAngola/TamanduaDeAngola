@@ -1,6 +1,8 @@
-### Who I am
-
-![heisenberg gif](https://media1.giphy.com/media/NUBp5KcV0PJBe/giphy.gif?cid=790b7611fe14c0641986c3633bc4a216aa02626eb859e791&rid=giphy.gif&ct=g)
+<div>
+  <h2 align="center">Hello, World!
+    <img align="center" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/2858216iF966CF430D380489/image-size/large?v=v2&px=999" width="32px"/>
+  </h2>
+</div>
 
  - I am
  - a programmer

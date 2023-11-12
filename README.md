@@ -1,4 +1,4 @@
-## Hello, World! <img align="center" src="doge.png" width="32px"/>
+<p text-align="center" > Hello, World! <img align="center" src="doge.png" width="32px"/></p>
 
 I write random stuffs usually with C/Cpp and I **_try_** to fix bugs. 
 

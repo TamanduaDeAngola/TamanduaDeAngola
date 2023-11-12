@@ -9,6 +9,7 @@ const me = require('TamanduaDeAngola')
   assert(me.nick === "Sagat")
   assert(me.fav_langs === ['C/C++', 'Py', 'Go'])
   assert(me.actual_OS === ['Win11'])
+  assert(java_good) // Uncaught AssertionError...
 }
 ```
 

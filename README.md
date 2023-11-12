@@ -6,9 +6,9 @@ I write random stuffs usually with C/Cpp and I **_try_** to fix bugs.
 const me = require('TamanduaDeAngola')
 
 () => {
-  assert(me.nick === "Sagat")
-  assert(me.fav_langs === ['C/C++', 'Py', 'Go'])
-  assert(me.actual_OS === ['Win11'])
+  assert.equal(me.nick, "Sagat")
+  assert.equal(me.fav_langs, ['C/C++', 'Py', 'Go'])
+  assert.equal(me.actual_OS, ['Win11'])
   assert(java_good) // Uncaught AssertionError...
 }
 ```

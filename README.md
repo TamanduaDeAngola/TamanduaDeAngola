@@ -4,10 +4,12 @@
   </h2>
 </div>
 <img align="right" width="38%" src="doge.png"/>
+
  - I am
  - a programmer
  - that likes:
  - *programming*💀
+
 ---
 ## 🔥 Github Stats
 

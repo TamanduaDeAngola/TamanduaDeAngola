@@ -13,19 +13,6 @@
  - that likes:
  - *programming*💀
 ---
-
-```go
-package main
-
-func main() {
-    favLanguages := []string{"C", "Golang", "Python"}
-    editor := []string{"VsCode", "NeoVim"}
-    operatingSystem := []string{"Win11"}
-    actuallyStudying := []string{"JS", "Rust"}
-    const javaBad = true
-}
-```
----
 ## 🔥 Github Stats
 
 <img align="right" width="38%" src="doge.png"/>

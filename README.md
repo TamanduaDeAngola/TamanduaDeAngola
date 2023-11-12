@@ -5,10 +5,7 @@
 </div>
 <img align="right" width="38%" src="doge.png"/>
 
- - I am
- - a programmer
- - that likes:
- - *programming*💀
+De 1 em 1 ano eu programo algo de útil.
 
 ---
 ## 🔥 Github Stats

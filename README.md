@@ -6,9 +6,9 @@
 
 ```js
 () => {
+  assert(me.nick === "Sagat")
   assert(me.fav_langs === ['C', 'Py', 'Go'])
-  assert(me.OS === ['Win11'])
-  assert(java_bad === true)
+  assert(me.actual_OS === ['Win11'])
 }
 ```
 ---

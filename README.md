@@ -3,11 +3,11 @@
     <img align="center" src="doge.png" width="32px"/>
   </h2>
 </div>
-
+I write random stuffs usually with C/C++
 ```js
 () => {
   assert(me.nick === "Sagat")
-  assert(me.fav_langs === ['C', 'Py', 'Go'])
+  assert(me.fav_langs === ['C/C++', 'Py', 'Go'])
   assert(me.actual_OS === ['Win11'])
 }
 ```

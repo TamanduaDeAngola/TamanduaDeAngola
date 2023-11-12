@@ -16,7 +16,7 @@
 <kbd> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) </kbd>
 <kbd> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </kbd>
 <kbd> ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </kbd>
-<kbd> ![C](https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=C&logoColor=fff) </kbd><br>
+<kbd> ![C](https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=C&logoColor=fff) </kbd><br><br>
 <kbd> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) </kbd>
 <kbd> ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) </kbd>
 

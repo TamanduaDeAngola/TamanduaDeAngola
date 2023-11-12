@@ -19,6 +19,7 @@
 <kbd> ![C](https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=C&logoColor=fff) </kbd>
 
 ---
+## Contato
 [<kbr> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </kbr>](https://discord.com/users/891742803791585400)
 
 

@@ -1,11 +1,13 @@
 <div>
   <h2 align="center">Hello, World!
-    <img align="center" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/2858216iF966CF430D380489/image-size/large?v=v2&px=999" width="32px"/>
+    <img align="center" src="doge.png" width="32px"/>
   </h2>
 </div>
 <img align="right" width="38%" src="doge.png"/>
 
-De 1 em 1 ano eu programo algo de útil.
+```py
+assert()
+```
 
 ---
 ## Languages

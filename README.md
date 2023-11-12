@@ -3,7 +3,9 @@
     <img align="center" src="doge.png" width="32px"/>
   </h2>
 </div>
+
 I write random stuffs usually with C/C++
+
 ```js
 () => {
   assert(me.nick === "Sagat")

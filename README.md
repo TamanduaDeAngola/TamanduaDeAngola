@@ -4,7 +4,7 @@
   </h2>
 </div>
 
-I write random stuffs usually with C/C++
+I write random stuffs usually with C/Cpp and I *_try_* to fix bugs
 
 ```js
 () => {

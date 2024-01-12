@@ -8,7 +8,7 @@ const me = require('TamanduaDeAngola')
 () => {
   assert.equal(me.nick, "Sagat")
   assert.equal(me.fav_langs, ['C/C++', 'Py', 'Go'])
-  assert.equal(me.actual_OS, ['Win11'])
+  assert.equal(me.actual_OS, ['Win10', 'Arch Linux'])
   assert(java_good) // Uncaught AssertionError...
 }
 ```

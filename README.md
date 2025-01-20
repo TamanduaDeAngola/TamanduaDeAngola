@@ -3,7 +3,9 @@
 I write some random stuffs.<br>
 I'll try to post more here in my free time.<br>
 Cya!</p>
----
+
+--
+
 <h3 align="center">Contact</h2>
 <div align="center">
   <a href="https://discord.com/users/891742803791585400">

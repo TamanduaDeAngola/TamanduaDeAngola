@@ -1,11 +1,11 @@
-<h2 align="center"> Hello, World! <img align="center" src="doge.png" width="32px"/></h2>
+<h1 align="center"> Hello, World! <img align="center" src="doge.png" width="32px"/></h2>
 <p align="center">
 I write some random stuffs.<br>
 I'll try to post more here in my free time.<br>
 Cya!</p>
 
 ---
-## Contact
+<h2 align="center"> Contact <img align="center" src="doge.png" width="32px"/></h2>
 
 <div align="center">
   <a href="https://discord.com/users/891742803791585400">

@@ -7,6 +7,16 @@ Cya!</p>
 ---
 ## Contact
 
-<div align="center">[<kbr> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </kbr>](https://discord.com/users/891742803791585400)
-[<kbr> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </kbr> ](https://t.me/Jaogozaydorme)</div>
+<div align="center">
+  <a href="https://discord.com/users/891742803791585400">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/Jaogozaydorme">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
 
+<!--
+[<kbr> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) </kbr>](https://discord.com/users/891742803791585400)
+[<kbr> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </kbr> ](https://t.me/Jaogozaydorme)
+--> 

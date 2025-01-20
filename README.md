@@ -1,6 +1,8 @@
 <h2 align="center"> Hello, World! <img align="center" src="doge.png" width="32px"/></h2>
 
-I write random stuffs usually with C/Cpp and I **_try_** to fix bugs. 
+I write some random stuffs usually with C/Cpp.
+I'll try to post more here in my free time
+Cya
 
 ---
 ## Contact
